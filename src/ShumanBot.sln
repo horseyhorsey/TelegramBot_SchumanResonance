@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShumanBot", "ShumanBot.csproj", "{BF4D2042-B69B-4926-81C1-6E5857D645AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Release|x64.ActiveCfg = Release|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Release|x64.Build.0 = Release|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF4D2042-B69B-4926-81C1-6E5857D645AC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6178C2-153D-41C5-AF1A-9EDB0BB239E2}
+	EndGlobalSection
+EndGlobal
